@@ -1,0 +1,5 @@
+{
+  "name": "Tg-WebHook Forwarding",
+  "description": "php Script That Forward Telegram bots webhook update to another address",
+  "repository": "https://github.com/AY-ME/tgforward/"
+}
