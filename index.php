@@ -6,10 +6,6 @@ $url = $_GET['url'];
 $array = [
 'ok'=>true,
 'info'=>[
-'id'=>$id,
-'title'=>$url['videoInfo']['title'],
-'thumb'=>$url['videoInfo']['thumbnail'],
-'viewsCount'=>$url['videoInfo']['viewCount'],
 'url'=>"http://".$ip."/tmp/".$id.".mp4",
 ],
 'by'=>" ~ @html_iq"
